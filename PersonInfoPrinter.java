@@ -16,7 +16,6 @@ public class PersonInfoPrinter {
         System.out.println(city);
         System.out.println(zipCode);
         
-        //RANDOM COMMENT FOR NO REASON
 
 	}
 
